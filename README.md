@@ -1,7 +1,7 @@
 # Random Walk 3D
-This is a simple program created in Unity that simulated the random walk of multiple particles in 3D.
+This is a simple program created in Unity that simulates the random walk of multiple particles in 3D.
 
-Different parameters can be controlled, such as the maximum distance it can move in one step, total number of atoms, or the frequency of movement.
+Different parameters can be controlled, such as the maximum distance it can move in one step, total number of particles, or the frequency of movement.
 
 # Demo
 ![Image 1](https://github.com/user-attachments/assets/150cf669-b402-4b81-aae4-badc355e4ad7)
